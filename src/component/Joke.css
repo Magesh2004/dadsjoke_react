@@ -1,0 +1,29 @@
+.main-card{
+    place-self: center;
+    padding: 40px;
+    background-image: linear-gradient(19deg,#3A3960,#5E686D);
+    place-self: center;
+    padding: 40px;
+    border-radius: 10px;
+    display: flex;
+    gap: 50px;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+}
+.main-card p{
+    margin-top: 10px;
+    width: 80%;
+    font-size:40px ;
+    line-height: 1;
+    letter-spacing: 4px;
+}
+
+.main-card button{
+    padding: 15px;
+    background: none;
+    color: #fff;
+    border:1px solid #fff;
+    border-radius: 6px;
+    outline: none;
+}
