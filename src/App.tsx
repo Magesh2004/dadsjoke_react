@@ -1,4 +1,4 @@
-import Joke from "./component/joke"
+import Joke from "./component/Joke"
 function App() {
 
   return (
